@@ -1,0 +1,3 @@
+Este es un ejemplo de texto en españñññol
+Mi nombre es Martin y quiero ser y hacer experimentos en Perl
+Me podra traducir Perl?
